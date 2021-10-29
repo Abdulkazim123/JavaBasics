@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class5;
+ package com.syntaxBatch11Class5;
 
 public class LogicalNotDemo1 {
 

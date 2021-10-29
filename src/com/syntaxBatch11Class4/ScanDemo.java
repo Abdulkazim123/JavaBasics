@@ -19,7 +19,7 @@ public class ScanDemo {
 		
 		System.out.println("Hello "+name);
 		
-		System.out.println("please unter your age");
+		System.out.println("please enter your age");
 		
 		 int age =scan.nextInt();
 		

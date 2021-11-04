@@ -10,7 +10,7 @@ public class PrintingPatternsdemo1 {
 			for( int c=1;  c<=5;  c++) {
 				
 				
-				System.out.print(" * ");
+				System.out.print(c+" ");
 			}
 			
 			System.out.println();
@@ -24,7 +24,7 @@ public class PrintingPatternsdemo1 {
 			for( int c=1;  c<=10;  c++) {
 				
 				
-				System.out.print(" * ");
+				System.out.print(r+" ");
 			}
 			
 			System.out.println(); 

@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class02;
+package com.syntaxBatch11Class2;
 
 public class PerimeterTask {
 

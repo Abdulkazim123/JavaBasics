@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class01;
+package com.syntaxBatch11Class1;
 
 public class HelloWorld {
 

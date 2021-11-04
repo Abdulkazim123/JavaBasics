@@ -1,4 +1,4 @@
-package HomeworkPractice;
+ package HomeworkPractice;
 
 public class PositiveOrnagative {
 
@@ -7,7 +7,7 @@ public class PositiveOrnagative {
 
 		double number=12.35;
 		
-		if (number>=15.25) {
+		if (number<=15.25) {
 			
 		
 			System.out.println("Positive");

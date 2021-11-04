@@ -20,10 +20,14 @@ public class ArrayHW4 {
 		System.out.println("The sum of these numbers are "+sum); 
 			
 			
+		sum=0;
 		
-		
-		
-		
-	}
-
-}
+		for(int num:numbers){
+			
+			sum+=num;
+			
+			
+		}
+		System.out.println("The sum of these numbers are "+sum);
+	}	
+	}	

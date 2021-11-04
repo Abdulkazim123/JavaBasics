@@ -1,4 +1,4 @@
-package TeamWorkJava;
+package TeamWorkProject;
 
 public class TeamWorkQ1 {
 

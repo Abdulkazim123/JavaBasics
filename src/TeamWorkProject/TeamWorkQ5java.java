@@ -1,10 +1,11 @@
-package TeamWorkQ5Java;
+package TeamWorkProject;
 
-public class TeamWorkQ5 {
+public class TeamWorkQ5java {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
 		//Create an array of countries. 
 		  //While retrieving all values from an array print capital for each country. 
 		 //(use 2 different loops).
@@ -34,5 +35,6 @@ public class TeamWorkQ5 {
 		
 		
 		}	}
+	
 
 }

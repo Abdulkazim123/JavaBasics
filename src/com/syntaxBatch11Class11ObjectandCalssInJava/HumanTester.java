@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class11;
+package com.syntaxBatch11Class11ObjectandCalssInJava;
 
 import java.util.Scanner;
 

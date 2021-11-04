@@ -1,8 +1,7 @@
-package com.syntaxBatch11Class11;
+package com.syntaxBatch11Class11ObjectandCalssInJava;
 
 public class DogTester {
 
-	private Object alonasDog;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

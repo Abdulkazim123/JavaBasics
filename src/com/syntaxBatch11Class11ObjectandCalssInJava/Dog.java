@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class11;
+package com.syntaxBatch11Class11ObjectandCalssInJava;
 
 public class Dog {
 
@@ -7,7 +7,7 @@ public class Dog {
 	String color;
 	double height;
 	int    age;
-	char   gender;
+	char   gender;// In here we create a class for Dog.
 	
 	
 	

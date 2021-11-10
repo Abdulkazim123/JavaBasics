@@ -31,7 +31,7 @@ public class TeamWorkQ5java {
 					capital="Unknown";
 			
 			}
-			System.out.println("The capital of "+c+" is "+capital); 
+			System.out.println("The capital of "+c+" is "+capital);  
 		
 		
 		}	}

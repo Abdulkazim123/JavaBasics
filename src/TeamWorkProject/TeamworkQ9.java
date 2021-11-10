@@ -15,13 +15,15 @@ public class TeamworkQ9 {
 						max=arr[i];
 					} else if(min>arr[i]) {
 						min=arr[i];
-					} 
 					
+					}
 				}
-				System.out.println("Maximum number is "+max+". "+"Minimum number is "+min);
-					
-			}
- 
+				System.out.println("Maximum number is "+max+". "+"Minimum number is "+min); 
+	
+				}
+
+			
 	
 
+	
 }

@@ -27,18 +27,18 @@ int   [][] nums ={
 	
 		System.out.println("The  Even numbers of interger in 2D  Array  are");
 		
-		int even=0;
+		
 		
 		for (int k = 0;  k<nums.length;  k++) {
 			
 		
 			for(int m=0; m<nums[k].length; m++) {
 				
-				even=nums[k] [m];
+	
 			
 		if(nums[k][m]%2==0) {
 			
-			System.out.print(nums[k][m]+"    ");	 
+			System.out.print(nums[k][m]+"    ");	  
 	}
 			}
 }}}

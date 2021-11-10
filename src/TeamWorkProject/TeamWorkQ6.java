@@ -8,13 +8,17 @@ public class TeamWorkQ6 {
 		
 		//Write a program to swap 2 numbers without a temporary variable?
 		 
-		int x=20;
-		int y=15;
-		x=x+y;
-		y=x-y;
-		x=x-y;
-		System.out.println("After swaping;"+ "x= "+x +" y= "+y);  
-
+		int a=10;
+		int b=20;
+		
+		
+		a=a+b;
+		b=a-b;
+		a=a-b;
+		
+		System.out.println("a "+a);
+		
+		System.out.println("b "+b);    
 				
 				
 				

@@ -10,12 +10,12 @@ public class teamWorkQ8 {
 		 
 		
 		   int n = 10, num1 = 0, num2 = 1;
-		    System.out.println("Fibonacci Series till " + n + " terms:");
+		    System.out.println("first 10 numbers of fibonacci series are ");
 
 		    for (int i = 1; i <= n; i++) {
-		      System.out.print(num1 + ", ");
-
-		      // compute the next term 
+		      System.out.print(num1 + ", ");   
+		      
+		      //for next step
 		      int num = num1 +num2;
 		      num1 = num2; 
 		     num2 = num;

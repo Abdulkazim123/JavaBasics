@@ -10,26 +10,31 @@ public class TeamWorkQ3 {
 		 //Develop a program which will calculate the sum of  even and odd numbers for that array.
 		 
 
-		int [][] num1= {
+		int [][] num= {
+				
 				{1,2,3,4},
 				{5,6,7,8},
 				{9,10,11,12}
 		};
-		int sumE=0;
-		int sumO=0;
-		for(int i=0; i<num1.length; i++) {
-			for(int j=0; j<num1.length+1; j++) {
-				if (num1[i][j]%2==0) {
-					sumE+=num1[i][j];
-					num1[i][j]++;
+		int evensum=0;
+		int oddsum=0;
+		
+		for(int i=0; i<num.length; i++) {
+			
+			for(int j=0; j<num[i].length; j++) {
+				
+				if (num[i][j]%2==0) {
+					
+					evensum+=num[i][j];
+					
 				} else {
-					sumO+=num1[i][j];
-					num1[i][j]++;
+					oddsum+=num[i][j];
+					
 				}
 			}
 		}
-		System.out.println("Sum of even numbers is "+ sumE);
-		System.out.println("Sum of odd numbers is "+ sumO); 
+		System.out.println("Sum of even numbers is "+ evensum);
+		System.out.println("Sum of odd numbers is "+ oddsum);   
 		
 	}
 

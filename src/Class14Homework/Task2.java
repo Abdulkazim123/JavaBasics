@@ -22,7 +22,14 @@ public class Task2 {
 		}
 		}
 			System.out.println("The total of all  alphas are " +total); 
-		
-		
-		}	
+		 
+	}
+	
+	
+			
+	
+	
+
+	
+	
 }

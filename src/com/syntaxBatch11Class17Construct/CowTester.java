@@ -1,0 +1,15 @@
+package com.syntaxBatch11Class17Construct;
+
+
+
+public class CowTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Cow cow=new Cow("Lola", "Hollstien", "white",16, 80);
+		cow.printAllInfo(); 
+		
+	}
+
+}

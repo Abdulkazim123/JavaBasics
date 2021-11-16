@@ -11,31 +11,31 @@ public class StudentsTester {
 		  student1.studentname="Kazim";
 		  student1.studentID=123;
 		  Students.NumberOfStudents ++;
-		  student1.section();
+		
 		 
 		  System.out.println();
 		   Students  student2=new Students();
 		   student2.studentname="Mike";
 		   student2.studentID=124;
 		   student2.NumberOfStudents ++;
-		   student2.section();
 		 
+		  
 		
 		   System.out.println();
 			 Students  student3=new Students();
 			 student3.studentname="Peter";
 		     student3.studentID=125;
 			 student3.NumberOfStudents ++; 
-			 student3.section();
+		
 				 
+				  
 				 
-				 
-				 System.out.println("___________________");
+				 //System.out.println("___________________");
 				 
 				 
 				 
 			 
-		System.out.println("The total numbre of student in this class is " +student3.NumberOfStudents);
+		System.out.println("The total numbre of student in this class is " +Students.NumberOfStudents);
 	}
 
 }

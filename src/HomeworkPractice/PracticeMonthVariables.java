@@ -7,7 +7,7 @@ public class PracticeMonthVariables {
 
 		// create a java program and declare int variable that hold a month 
 		
-		int month=15;
+		int month=1;
 		if (month==1) {
 			
 			
@@ -16,7 +16,6 @@ public class PracticeMonthVariables {
 			System.out.println("january");
 			
 	       } else if(month==2 ) {
-		
 			System.out.println("February");
 	        
 	       }else if (month==3) {

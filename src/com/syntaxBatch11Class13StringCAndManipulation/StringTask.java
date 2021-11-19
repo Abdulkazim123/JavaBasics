@@ -1,4 +1,4 @@
-package com.syntaxBatch11Class13;
+package com.syntaxBatch11Class13StringCAndManipulation;
 
 public class StringTask {
 
